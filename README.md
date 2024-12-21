@@ -1,4 +1,5 @@
 # first
 This is my first repository
 <br>
-Author-Kalyani Chandrakar
+Author- Kalyani(Apna college)
+
